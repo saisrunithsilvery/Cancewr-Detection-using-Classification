@@ -1,1 +1,1 @@
-# Cancewr-Detection-using-Classification
+# Cancer-Detection-using-Classification
